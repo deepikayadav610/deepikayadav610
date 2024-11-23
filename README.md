@@ -1,4 +1,4 @@
-<img src="https://github.com/deepikayadav610/Deepika-Yadav/blob/main/github-header-image%20(4).png" width="1015px" height="250px" />
+<img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/github-header-image%20(4).png" width="1015px" height="250px" />
 
 <h1 align="center">Hi 👋, I'm Deepika Yadav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
