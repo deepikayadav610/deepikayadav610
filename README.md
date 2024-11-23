@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src="https://iconscout.com/lottie-animation/developers-working-on-website-growth-3572995" width="200px" />
+
 - 🔭 I’m currently working on **expensesTracker**
 
 - 🌱 I’m currently learning **Reactjs,Nodejs, Flutter, MongodB**
@@ -22,6 +24,7 @@
 - 📫 How to reach me **simranydv610@gmail.com**
 
 - ⚡ Fun fact **I think I am funny...😊**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
