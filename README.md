@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://iconscout.com/lottie-animation/developers-working-on-website-growth-3572995" width="200px" />
+<img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/github-profile-image.jpg" width="250px" align="right" />
 
 - 🔭 I’m currently working on **expensesTracker**
 
