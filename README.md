@@ -9,10 +9,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on **Ventura Website**
-- 🌱 Learning **React.js, Node.js, Flutter, MongoDB**
+- 💼 Working at Ventura Alloy & Steels Pvt. Ltd. as Executive – Web Designing & Development
+- 🔭 Currently building Ventura’s official website using the MERN Stack
+- 🌱 Learning and working on MERN Stack technologies
+- 💬 Ask me about HTML, CSS, JavaScript, React.js, Node.js, Flutter, Dart, Express.js, MySQL, MongoDB
 - 👯 Open to collaborate on **HealthTrack**
-- 💬 Ask me about **React, Node.js, Flutter**
 - 📫 Reach me at **deepikay.tech@gmail.com**
 - ⚡ Fun fact: *I think I’m funny... 😊*
 
