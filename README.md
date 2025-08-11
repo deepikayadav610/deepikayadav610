@@ -11,7 +11,7 @@
 
 <img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/github-profile-image.jpg" width="250px" align="right" />
 
-- 🔭 I’m currently working on **expensesTracker**
+- 🔭 I’m currently working on **on ventura-website**
 
 - 🌱 I’m currently learning **Reactjs,Nodejs, Flutter, MongodB**
 
@@ -21,10 +21,9 @@
 
 - 💬 Ask me about **react, nodejs, flutter**
 
-- 📫 How to reach me **simranydv610@gmail.com**
+- 📫 How to reach me **deepikay.tech@gmail.com**
 
 - ⚡ Fun fact **I think I am funny...😊**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
