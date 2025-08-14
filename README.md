@@ -3,60 +3,36 @@
   <img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/github-header-image%20(4).png" width="100%" alt="Deepika Yadav Header" />
 </p>
 
-<h1 align="center">Hi, I'm Deepika Yadav 👋</h1>
-<p align="center">
-  Full Stack Web Developer — building clean, scalable web & mobile apps.
-</p>
+<h1 align="center">👋 Hi, I'm <span style="color:#FE7743;">Deepika Yadav</span></h1>
+<h3 align="center">💻 Full Stack Web Developer | 🚀 MERN Stack & Flutter</h3>
 
 ---
 
-## About Me
-- 💼 Executive – Web Designing & Development @ **Ventura Alloy & Steels Pvt. Ltd.**
-- 🔭 Currently building **Ventura’s official website** (MERN).
-- 🌱 Learning: **Advanced Node.js**, **API performance**, **Flutter animations**.
-- 💬 Ask me about: HTML, CSS, JavaScript, React, Node, Express, MongoDB, MySQL, Flutter, Dart.
-- 📫 Email: **deepikay.tech@gmail.com**
-- ⚡ Fun fact: Coffee + lo-fi = faster debugging ☕
+## 📌 About Me
+- 💼 **Executive – Web Designing & Development** @ Ventura Alloy & Steels Pvt. Ltd.
+- 🔭 **Current Project:** Ventura’s official website (MERN Stack)
+- 🌱 **Learning:** Advanced Node.js, API Performance, Flutter Animations
+- 💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Node.js, Express.js, Flutter, Dart, MongoDB, MySQL
+- 📫 **Email:** [deepikay.tech@gmail.com](mailto:deepikay.tech@gmail.com)
+- ⚡ **Fun fact:** Coffee + Lo-Fi music = Productive coding 🎵
 
 ---
 
-## Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React, Redux, Bootstrap, Tailwind  
+## 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React.js, Redux, Bootstrap, Tailwind CSS  
 **Backend:** Node.js, Express.js  
-**Databases:** MongoDB, MySQL  
+**Database:** MongoDB, MySQL  
 **Mobile:** Flutter, Dart  
-**Tools:** Git, Postman  
-**Design:** Figma/Adobe XD, Illustrator  
-**Also:** Python basics, Django (beginner)
+**Tools & Others:** Git, Postman, Python (Basics), Django (Beginner)  
+**Design:** Figma, Adobe XD, Illustrator
 
 ---
 
-## Current Focus
-- Ventura Website (MERN)
-- HealthTrack (Flutter + Node backend)
-- Improving API security & performance
-
----
-
-## Highlights
-- Built B2B-style pages (Product, Infrastructure, Quality) with responsive UI/UX.
-- Implemented advanced form validation and clean routing.
-- Emphasis on performance, accessibility, and clean component structure.
-
----
-
-## Portfolio
-- 🌐 Live: https://d-portfolio-client.onrender.com/
-
----
-
-## Connect
-- LinkedIn: https://linkedin.com/in/deepika-yadav-5a3502274  
-- Instagram: https://instagram.com/deepika_6_10yadav  
-- Email: mailto:deepikay.tech@gmail.com
-
----
-
-<p align="center">
-  If you find my work useful, consider ⭐ starring a repo!
-</p>
+## 🚀 Current Work
+```yaml
+Projects:
+  - Ventura Website (MERN)
+  - HealthTrack App (Flutter + Node.js)
+Learning:
+  - API Security
+  - Advanced Backend Patterns
