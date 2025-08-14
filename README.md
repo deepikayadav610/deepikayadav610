@@ -61,7 +61,7 @@
 
 ## 📌 Featured Projects  
 
-🔹 **[Ventura Steels Official Website](https://ventura-website.onrender.com/)** – A complete corporate site built using MERN with B2B-focused UI/UX.  
+🔹 **Ventura Steels Official Website** – A complete corporate site built using MERN with B2B-focused UI/UX.  
 🔹 **Portfolio Website** – Minimal & responsive personal site showcasing projects.  
 🔹 **HealthTrack** *(WIP)* – A fitness and health tracking app built with Flutter + Node backend.  
 
@@ -94,5 +94,22 @@
 </p>
 
 ---
+
+## 📂 Portfolio
+
+<p align="center">
+  <a href="https://d-portfolio-client.onrender.com/" target="_blank">
+    <img src="https://via.placeholder.com/800x400.png?text=Deepika+Yadav+Portfolio" 
+         alt="Portfolio Preview" 
+         style="border-radius: 10px; border: 2px solid #ccc;" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://d-portfolio-client.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-%23FE7743?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 
 <p align="center">⭐ If you like my work, consider giving my repositories a star!</p>
