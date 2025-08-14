@@ -63,7 +63,7 @@
 
 🔹 **Ventura Steels Official Website** – A complete corporate site built using MERN with B2B-focused UI/UX.  
 🔹 **Portfolio Website** – Minimal & responsive personal site showcasing projects.  
-🔹 **HealthTrack** *(WIP)* – A fitness and health tracking app built with Flutter + Node backend.  
+🔹 **HealthTrack** *(WIP)* – A fitness and health tracking app built with MERN.  
 
 ---
 
