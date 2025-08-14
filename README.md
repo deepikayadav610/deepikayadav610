@@ -99,7 +99,7 @@
 
 <p align="center">
   <a href="https://d-portfolio-client.onrender.com/" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Deepika+Yadav+Portfolio" 
+    <img src="https://via.placeholder.com/800x400.png?text=Deepika+Yadav+Portfolio](https://drive.google.com/file/d/1X6yr0FFD7bxViF-qjuqc2-CSjFx3iF2Z/view?usp=drive_link" 
          alt="Portfolio Preview" 
          style="border-radius: 10px; border: 2px solid #ccc;" />
   </a>
