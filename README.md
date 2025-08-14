@@ -14,7 +14,7 @@
 🔭 Currently developing **Ventura’s Official Website** using MERN Stack.  
 📚 Learning **Advanced Node.js**, **API Optimization**, and **Flutter Animations**.  
 🎯 Focused on **Performance, Scalability, and Clean UI/UX**.  
-☕ Fun Fact: I debug faster with **coffee** and **lo-fi beats**.  
+☕ Fun Fact: I debug faster with **tea**, **bhakti music**, and **lo-fi songs** ☕. 
 
 ---
 
