@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FE7743,100:273F4F&text=Deepika%20Yadav&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20MERN%20•%20Web%20%26%20Mobile&descAlign=50&descAlignY=60" alt="Deepika Yadav banner"/>
 </p>
 
+
 <!-- Typing Intro -->
 <p align="center">
   <a href="https://git.io/typing-svg">
