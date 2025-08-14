@@ -1,7 +1,6 @@
 <!-- Top Wave Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FE7743,100:273F4F&text=Deepika%20Yadav&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Web%20and%20Mobile&descAlign=50&descAlignY=60" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FE7743,100:273F4F&text=Deepika%20Yadav&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Web%20and%20Mobile&descAlign=50&descAlignY=60" height="100" />
 </p>
 
 
