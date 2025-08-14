@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/github-header-image%20(4).png" width="100%" alt="Deepika Yadav Banner" />
+  <img src="https://github.com/deepikayadav610/deepikayadav610/blob/main/Github%20banner.png" width="100%" alt="Deepika Yadav Banner" />
 </p>
 
 <!-- Title -->
